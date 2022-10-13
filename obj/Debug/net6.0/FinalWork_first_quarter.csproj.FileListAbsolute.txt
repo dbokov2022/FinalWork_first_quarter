@@ -1,0 +1,15 @@
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\bin\Debug\net6.0\FinalWork_first_quarter.exe
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\bin\Debug\net6.0\FinalWork_first_quarter.deps.json
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\bin\Debug\net6.0\FinalWork_first_quarter.runtimeconfig.json
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\bin\Debug\net6.0\FinalWork_first_quarter.dll
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\bin\Debug\net6.0\FinalWork_first_quarter.pdb
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.csproj.AssemblyReference.cache
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.AssemblyInfoInputs.cache
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.AssemblyInfo.cs
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.dll
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\refint\FinalWork_first_quarter.dll
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.pdb
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\FinalWork_first_quarter.genruntimeconfig.cache
+D:\GeekBrains\Итоги блока. Выбор специализации\Итоговая проверочная работа\Боков Д.В\FinalWork\FinalWork_first_quarter\obj\Debug\net6.0\ref\FinalWork_first_quarter.dll
